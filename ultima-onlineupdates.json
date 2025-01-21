@@ -3,6 +3,7 @@
         "UpdateStageName": "",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "ServUO-57.4.1",
         "UpdateSourceArgs": "https://github.com/ServUO/ServUO",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
