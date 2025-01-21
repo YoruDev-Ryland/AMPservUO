@@ -1,0 +1,152 @@
+[
+    {
+        "ConfigFile": "Config/Server.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Accounts.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/AutoRestart.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/AutoSave.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Champions.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Chat.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/CityLoyalty.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/CityTrading.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Client.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Compiler.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/DailyRares.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/DataPath.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Email.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Expansion.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Factions.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/General.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Honesty.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Housing.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Loot.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/PlayerCrops.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Reports.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Shadowguard.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Siege.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Staff.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Store.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/TestCenter.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/TreasureMaps.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/Vendors.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/VetRewards.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Config/VvV.cfg",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]
